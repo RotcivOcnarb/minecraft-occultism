@@ -1,0 +1,27 @@
+{
+  "occultism:chalks/root": {
+    "criteria": {
+      "always": "2025-06-25 20:51:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-25 20:51:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-06-25 20:51:43 -0300"
+    },
+    "done": false
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-06-25 20:51:42 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

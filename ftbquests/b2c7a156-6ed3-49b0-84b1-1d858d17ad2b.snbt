@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b2c7a1566ed349b084b11d858d17ad2b"
+	name: "RotsRots#b2c7a156"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "b2c7a156-6ed3-49b0-84b1-1d858d17ad2b"
+	type: "player"
+	player_name: "RotsRots"
+	ranks: {
+		b2c7a156-6ed3-49b0-84b1-1d858d17ad2b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "RotsRots"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8FFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
